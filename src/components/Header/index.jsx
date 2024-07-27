@@ -6,7 +6,7 @@ import FavoriteIcon from "/favorite.svg"
 
 function Header(){
     return(
-        <header className="w-full h-screen bg-hero-pattern bg-no-repeat bg-center bg-cover">
+        <header className="w-full pb-10 bg-hero-pattern bg-no-repeat bg-center bg-cover">
             <Navbar/>
             <div className="w-[520px] pl-20 mt-20">
                 <h1 className="text-[5rem] text-white uppercase font-Fjalla font-medium">
